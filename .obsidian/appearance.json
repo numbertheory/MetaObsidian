@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Red Graphite",
+  "textFontFamily": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "metastyle",
+    "tableStyles"
+  ]
+}

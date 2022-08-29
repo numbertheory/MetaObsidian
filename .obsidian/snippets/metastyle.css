@@ -1,0 +1,18 @@
+img[alt~="half"] {
+    width: 50%;
+}
+img[alt~="third"] {
+    width: 33%;
+}
+img[alt~="quarter"] {
+    width: 25%;
+}
+img[alt~="three-quarters"] {
+    width: 75%;
+}
+img[alt~="tenth"] {
+    width: 10%;
+}
+img[alt~="double"] {
+    width: 200%;
+}

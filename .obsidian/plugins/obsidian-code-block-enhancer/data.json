@@ -1,0 +1,8 @@
+{
+  "excludeLangs": [
+    "plain"
+  ],
+  "showLangName": false,
+  "showLineNumber": false,
+  "useContextMenu": true
+}
